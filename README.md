@@ -9,9 +9,9 @@ TAPP Code Challenge for Software Engineer Candidates
 
 ## Candidate Information (Fill out with your info)
 
-Name: \<your name>
+Name: Andrew Hoang
 
-Email: \<your email>
+Email: andrewhoang09@gmail.com
 
 Resume: \<link to your resume>
 
